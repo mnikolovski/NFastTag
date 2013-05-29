@@ -1,4 +1,4 @@
-# NFastTag?
+# NFastTag
 
 NFastTag is a .NET port of Mark Watson's FastTag Part of Speech Tagger which was itself based on Eric Brill's trained rule set and English lexicon.
 
