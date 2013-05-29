@@ -35,16 +35,16 @@ NN Noun, sing. or mass      dog
 NNP Proper noun, sing.      Edinburgh
 NNPS Proper noun, plural    Smiths
 NNS Noun, plural            dogs
-POS Possessive ending       Õs
+POS Possessive ending       ï¿½s
 PDT Predeterminer           all, both
-PP$ Possessive pronoun      my,oneÕs
+PP$ Possessive pronoun      my,oneï¿½s
 PRP Personal pronoun         I,you,she
 RB Adverb                   quickly
 RBR Adverb, comparative     faster
 RBS Adverb, superlative     fastest
 RP Particle                 up,off
 SYM Symbol                  +,%,&
-TO ÒtoÓ                     to
+TO ï¿½toï¿½                     to
 UH Interjection             oh, oops
 URL url                     http://www.google.com/
 VB verb, base form          eat
@@ -57,14 +57,6 @@ WDT Wh-determiner           which,that
 WP Wh pronoun               who,what
 WP$ Possessive-Wh           whose
 WRB Wh-adverb               how,where
-, Comma                     ,
-. Sent-final punct          . ! ?
-: Mid-sent punct.           : ; Ñ
-$ Dollar sign               $
-# Pound sign                #
-" quote                     "
-( Left paren                (
-) Right paren               )
 
 </pre>
 
